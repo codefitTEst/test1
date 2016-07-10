@@ -13,3 +13,4 @@ for (i in a){
 
 //TODO Fix my bugs and stuff
 //TODO Also shower!!!!
+//TODO rescans work!
