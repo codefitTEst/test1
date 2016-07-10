@@ -15,3 +15,5 @@ for (i in a){
 //TODO Also shower!!!!
 //TODO rescans work!
 // class a = 5. 
+
+// module.exports = test
