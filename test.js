@@ -1,0 +1,12 @@
+//Testing javascript
+
+console.log("Hello world"); 
+
+a = [1,2,3,4,5,6,7]
+
+a.map(function(a){return a+1}); 
+
+
+for (i in a){ 
+  console.log(i)
+}
