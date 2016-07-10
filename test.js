@@ -10,3 +10,5 @@ a.map(function(a){return a+1});
 for (i in a){ 
   console.log(i)
 }
+
+//TODO Fix my bugs and stuff
